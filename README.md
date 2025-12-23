@@ -1,4 +1,4 @@
-# Flutter Ui Task1 📱
+# Flutter Ui1 📱
 
 ## 📌 Project Description
 A simple **Flutter** training application designed to demonstrate some of the most commonly used **UI Widgets**.  
